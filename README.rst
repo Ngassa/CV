@@ -1,8 +1,8 @@
 .. -*- restructuredtext -*-
 
-Resume is a repository containing a Rejuvenated Version Of My Resume ;-) using a great modern theme
+CV is a repository containing a copy of my Curriculum Vitae ;-) using a great modern theme
 
-Click on the Resume.pdf file to view My Resume here and now.
+Click on the Resume.pdf file to view My CV here and now.
 
 Credits
 =======
@@ -38,6 +38,6 @@ Notes
 
 You are free to fork this Resume repository and modify it to create your own resume. Just make sure you star the repository before forking ;-). However, you're prohibited to use my Resume for anything else without my permission! 
 
-At Your Service!
+Chao!
 
-Isaac Kamga.
+Ngassa Amalia.
