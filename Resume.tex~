@@ -1,0 +1,58 @@
+\documentclass[11pt,a4paper,roman,unicode]{moderncv}
+\PassOptionsToPackage{
+  pdfpagelabels=false,
+  urlcolor=orange,
+  colorlinks=True,
+  citecolor=gray}{hyperref} 
+
+\usepackage{mathpazo}
+
+\moderncvtheme[blue]{classic}                
+\usepackage[utf8]{inputenc}
+\usepackage[top=1.1cm, bottom=1.1cm, left=2cm, right=2cm]{geometry}
+
+\setlength{\hintscolumnwidth}{3.8cm}
+\setlength{\makecvtitlenamewidth}{12cm}
+\renewcommand*{\namefont}{\fontsize{24}{29}\mdseries\upshape}
+
+\firstname{\textit{\textbf{Ngassa}}}
+\familyname{\textit{\textbf{Amalia Finjap}}}
+\title{\textit{B.Sc. Management Sciences}}
+\email{ngassafinjap@gmail.com}
+\photo[64pt]{Ngassa.jpg}
+\address{Muyuka, Cameroon}
+\mobile{(+237) 678262904}
+
+\begin{document}
+\maketitle
+
+\section{\textbf{Education}}
+\cventry{\llap{Oct 2011 -- Dec 2015}}{B.Sc. Management Science}{Magna Cum Laude, The Catholic University Institute of Buea, Cameroon}{}{}{\textbf{\textit{Course work:}} \textit{Project Management, Strategic Management, Cost Accounting, Organisational behaviour, Statistics, Insurance \& Marketing}\\ \textbf{\textit{Final Year Project:}} {\textit{Impact Of Inventory Management on Organisational Performance}}}
+\cventry{\llap{Oct 2011 -- Dec 2015}}{Minor Degree in Catholic Studies}{Magna Cum Laude}{}{}{The Catholic University Institute of Buea, Cameroon}\\
+\cventry{\llap{Oct 2009 -- July 2011}}{Advanced Levels}{The Cameroon General Certificate of Education Board Buea, Cameroon}{}{}{\textbf{\textit{Subjects: }} \textit{Economics, English Literature, History \& Religious Studies}}
+
+\section{\textbf{Working Experience}}
+\cventry{\llap{Aug 2014 -- Sept 2015}}{Real-Estate Manager}{BETNA Hostel, Opposite MTN Office, Molyko, Buea}{}{}{\textbf{\textit{Job Description:}} Lease Rooms and Studios, Water and Electricity management, Manage Security guards and Cleaner \& Noise management.}
+\cventry{\llap{April 2014 -- July 2015}}{Intern}{National Insurance Fund (CNPS) Buea, Mile 17, Buea}{}{}{Blah Blah Blah}
+\cventry{\llap{July 2013 -- August 2015}}{Intern}{Cameroon Development Corporation(CDC) Bota Office, Limbe}{}{}{Blah Blah Blah}
+
+\section{\textbf{Computer Skills}}
+\cvitem{Operating Systems}{Windows ( \textit{ XP, 7, 8, 10 }), Linux ( \textit{ Ubuntu })}
+\cvitem{Office Work}{Microsoft Office Suite (\textit{Word, Excel, Powerpoint}), Open Office Suite, Microsoft SkyDrive, Google Drive( \textit{Docs, Sheets,})}
+
+\section{\textbf{Community Involvement \& Volunteering}}
+\cvitem{August 2013 -- Present}{Member, Google Developers Group Buea (GDG Buea)}
+\cvitem{January 2015 -- Present}{Member, Women Techmakers Buea (WTM Buea)}
+
+\section{\textbf{Languages}}
+\cvline{Bilingual}{English (\textit{ Excellent }), French (\textit{ Good }), Pidgin English (\textit{ Fluent })}
+
+\section{\textbf{Awards \& Bragging Rights}}
+\cvitem{November 2015}{Admitted Student, \textit{Masters in Business Administration} at the Department of Economics and Management of the University of Buea.}
+\cvitem{December 2014}{Laureate, \textit{Business Plan Challenge Award} in Entrepreneurship by CUIB-CERI Enterprise Development Market Place Program}
+
+\section{\textbf{Interests}}
+\cvline{Research}{Business Management \& Entrepreneurship}
+\cvline{Hobbies}{Swimming, Dancing \& Reading}
+
+\end{document}
